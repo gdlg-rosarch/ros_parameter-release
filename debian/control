@@ -1,0 +1,12 @@
+Source: ros-jade-parameter-pa
+Section: misc
+Priority: extra
+Maintainer: Peter Weissig <wepet@hrz.tu-chemnitz.de>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-jade-catkin, ros-jade-cmake-modules, ros-jade-roscpp, ros-jade-roslib
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-parameter-pa
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-jade-cmake-modules, ros-jade-roscpp, ros-jade-roslib
+Description: ProAut parameter package
