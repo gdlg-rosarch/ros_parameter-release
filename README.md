@@ -1,3 +1,26 @@
+## parameter_pa (lunar) - 1.2.0-0
+
+The packages in the `parameter_pa` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar parameter_pa` on `Thu, 14 Dec 2017 14:49:36 -0000`
+
+The `parameter_pa` package was released.
+
+Version of package(s) in repository `parameter_pa`:
+
+- upstream repository: https://github.com/peterweissig/ros_parameter.git
+- release repository: https://github.com/peterweissig/ros_parameter-release.git
+- rosdistro version: `1.1.0-0`
+- old version: `1.1.0-0`
+- new version: `1.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## parameter_pa (kinetic) - 1.2.0-0
 
 The packages in the `parameter_pa` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic parameter_pa` on `Thu, 14 Dec 2017 14:43:00 -0000`
