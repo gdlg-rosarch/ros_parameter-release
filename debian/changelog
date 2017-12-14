@@ -1,0 +1,32 @@
+ros-lunar-parameter-pa (1.2.0-0xenial) xenial; urgency=high
+
+  * removed unnecessary headers
+  * bugfixed include of xmlrpcpp
+    (before kinetic those files were not related to a package)
+  * update README.md
+    bugfixed formatting (missing blanc line before table)
+  * added new features ("./" and "../" within ressource names)
+    added visual studio code config files (for ros kinetic)
+    updated documentation
+  * Contributors: Peter Weissig
+
+ -- Peter Weissig <wepet@hrz.tu-chemnitz.de>  Sun, 10 Dec 2017 23:00:00 -0000
+
+ros-lunar-parameter-pa (1.1.0-0xenial) xenial; urgency=high
+
+  * moved header from include/ to include/${project_name}
+    also fixed related paths
+  * Contributors: Peter Weissig
+
+ -- Peter Weissig <wepet@hrz.tu-chemnitz.de>  Mon, 31 Jul 2017 22:00:00 -0000
+
+ros-lunar-parameter-pa (1.0.2-0xenial) xenial; urgency=high
+
+  * updated year within license
+  * updated version number
+  * added install target to CMakeLists.txt
+  * Contributors: Peter Weissig
+
+ -- Peter Weissig <wepet@hrz.tu-chemnitz.de>  Sun, 30 Jul 2017 22:00:00 -0000
+
+
